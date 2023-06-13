@@ -1,0 +1,10 @@
+* trivial-nntp
+
+Common lisp tools for connecting to and crawling around NNTP servers.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/stacksmith/trivial-nntp.git   |
+| commit  | a394b28  |
+| systems | trivial-nntp |
+|---------+-------------------------------------------|
+
